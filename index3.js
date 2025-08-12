@@ -57,6 +57,7 @@ function isPrime(){
     else{
         console.log("something wrong")
     }
+    console.log("finished")
 }
 isPrime()
 
